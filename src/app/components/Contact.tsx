@@ -38,7 +38,6 @@ export default function Contact() {
           </div>
 
           <div>
-            ``
             <label
               htmlFor="email"
               className="block text-gray-400 mb-2 text-sm sm:text-base"
