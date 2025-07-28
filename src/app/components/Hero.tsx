@@ -31,7 +31,7 @@ export default function Hero() {
               rel="noreferrer"
               aria-label="GitHub"
             >
-              <FaGithub className="w-6 h-6 sm:w-7 sm:h-7 text-muted hover:text-cyan-400 transition" />
+              <FaGithub className="w-6 h-6 sm:w-7 sm:h-7 text-muted hover:text-indigo-400 transition" />
             </a>
             <a
               href="https://linkedin.com/in/ali-salimi-3147b7369"
@@ -39,7 +39,7 @@ export default function Hero() {
               rel="noreferrer"
               aria-label="LinkedIn"
             >
-              <FaLinkedin className="w-6 h-6 sm:w-7 sm:h-7 text-muted hover:text-cyan-400 transition" />
+              <FaLinkedin className="w-6 h-6 sm:w-7 sm:h-7 text-muted hover:text-indigo-400 transition" />
             </a>
           </div>
         </div>

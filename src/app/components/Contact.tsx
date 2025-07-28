@@ -31,7 +31,7 @@ export default function Contact() {
               type="text"
               id="name"
               name="name"
-              className="w-full bg-gray-700 border border-gray-600 rounded-lg py-3 px-4 text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-cyan-500 transition duration-200 text-sm sm:text-base"
+              className="w-full bg-gray-700 border border-gray-600 rounded-lg py-3 px-4 text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition duration-200 text-sm sm:text-base"
               placeholder="Your name"
               required
             />
@@ -48,7 +48,7 @@ export default function Contact() {
               type="email"
               id="email"
               name="email"
-              className="w-full bg-gray-700 border border-gray-600 rounded-lg py-3 px-4 text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-cyan-500 transition duration-200 text-sm sm:text-base"
+              className="w-full bg-gray-700 border border-gray-600 rounded-lg py-3 px-4 text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition duration-200 text-sm sm:text-base"
               placeholder="you@example.com"
               required
             />
@@ -65,7 +65,7 @@ export default function Contact() {
               id="message"
               name="message"
               rows={5}
-              className="w-full bg-gray-700 border border-gray-600 rounded-lg py-3 px-4 text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-cyan-500 transition duration-200 text-sm sm:text-base"
+              className="w-full bg-gray-700 border border-gray-600 rounded-lg py-3 px-4 text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition duration-200 text-sm sm:text-base"
               placeholder="Your message..."
               required
             />
